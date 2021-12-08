@@ -16,7 +16,7 @@ public class Customer {
 	private long id;
 	@Column(name="cname")
 	private String cName;
-	@Column(name="cEmail")
+	@Column(name="cemail")
 	private String cEmail;
 	
 	@Override
